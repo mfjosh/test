@@ -1,7 +1,7 @@
 def say_hi():
     if name == '':
         print('you did not enter a name!')
-    else
+    else:
         print("hi there...")
         for letter in name:
             print(letter)
