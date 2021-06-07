@@ -1,3 +1,4 @@
+#Version 0.1b
 def say_hi():
     if name == '':
         print('you did not enter a name!')
