@@ -1,7 +1,7 @@
 #version 0.1.1b
 #variables
 def introduction():
-    print("Welcome to the program! Let's get started.")
+    print("Welcome to the beta program! Let's get started.")
 def say_hi():
     if name == '':
         print('you did not enter a name!')
