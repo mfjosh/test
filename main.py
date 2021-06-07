@@ -1,4 +1,4 @@
-#version 0.1.1b
+#version 0.1.2b
 from functions import *
 
 #Main program sequence
